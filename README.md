@@ -1,7 +1,7 @@
 # 📄 PDF Viewer Dashboard - View Only 🔒
 
 A clean, secure, and interactive *PDF viewer dashboard* built with pure HTML5, JavaScript, and PDF.js.  
-This app renders up to *10 PDFs inline* with *view-only mode, **page navigation, and **download protection* (no iframe or embed).
+This app renders up to *25 PDFs inline* with *view-only mode, **page navigation, and **download protection* (no iframe or embed).
 
 > ✅ Perfect for confidential documents, internal manuals, service part catalogs, or client reports.
 
@@ -11,7 +11,7 @@ This app renders up to *10 PDFs inline* with *view-only mode, **page navigation,
 
 - 🔐 *View-only mode* — No print / download / direct access to PDF
 - 🧩 **Rendered via <canvas>** using [PDF.js](https://mozilla.github.io/pdf.js/)
-- 📦 *10+ PDFs supported* — switch easily via dropdown
+- 📦 *25+ PDFs supported* — switch easily via dropdown
 - ❌ *Right-click & text selection blocked*
 - 🖼 *Dynamic watermark* — visible overlay to prevent screen recording abuse
 - ⚡ *No external server needed* — runs 100% static via Base64 PDF embedding
@@ -39,6 +39,6 @@ This app renders up to *10 PDFs inline* with *view-only mode, **page navigation,
 Clone or download this repo, then just open index.html directly in your browser:
 
 ```bash
-git clone https://github.com/your-username/pdf-viewer-dashboard.git
-cd pdf-viewer-dashboard
+git clone https://github.com/MuhAlifAnharPDF-Viewer.git
+cd PDF-Viewer
 open index.html
