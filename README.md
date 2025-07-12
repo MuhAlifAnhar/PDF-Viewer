@@ -39,6 +39,6 @@ This app renders up to *25 PDFs inline* with *view-only mode, **page navigation,
 Clone or download this repo, then just open index.html directly in your browser:
 
 ```bash
-git clone https://github.com/MuhAlifAnharPDF-Viewer.git
+git clone https://github.com/MuhAlifAnhar/PDF-Viewer.git
 cd PDF-Viewer
 open index.html
